@@ -1,13 +1,13 @@
 # Hey! ^^
 
-README.md also available in [spanish](README-es.md)
+README.md también disponible en [inglés](README.md)
 
-¡Welcome to my profile! I'm Aarón, a passionate programmer who tries to find and create solutions to everyday problems using a variety of technologies and tools. Although Python is my usual choice, I try to learn new languages and tools constantly to keep myself updated.
+¡Bienvenida/o a mi perfil! Soy Aarón, un apasionado programador que intenta buscar y crear soluciones a problemas cotidianos usando diversas tecnologías y herramientas. Aunque Python es mi opción habitual, intento aprender nuevos lenguajes y herramientas constantemente para mantenerme actualizado.
 
-## ✨ About me
-- 🎓 I'm currently studying a CS DAW Previously I graduated from CM SMR with academic excellence.
-- 🌱 I'm trying to learn Tailwind CSS (and other front-end related technologies).
-- 💼 Although I don't have a large repository, I'll be happy to help on any project!
+## ✨ Sobre mí
+- 🎓 Actualmente estoy estudiando un CS DAW. Anteriormente me gradué en CM SMR con excelencia académica.
+- 🌱 Estoy intentando aprender Tailwind CSS (y otras tecnologías relacionadas con el front).
+- 💼 Aunque no cuento con un gran repositorio de trabajos, ¡Estaré encantado de ayudar en cualquier proyecto!
 
 ## 🖥️ Tech Stack
 <table>
@@ -38,7 +38,7 @@ README.md also available in [spanish](README-es.md)
 
 <div align="center">
 
-### Tools
+### Herramientas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -50,7 +50,7 @@ README.md also available in [spanish](README-es.md)
 </tr>
 </table>
 
-## 📚 Learning...
+## 📚 Aprendiendo...
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
