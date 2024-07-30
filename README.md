@@ -44,6 +44,7 @@ README.md also available in [spanish](README-es.md)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
 </td>
@@ -66,7 +67,7 @@ README.md also available in [spanish](README-es.md)
 ![](https://github-readme-stats.vercel.app/api?username=rexwithluv&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rexwithluv&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
-<td>
+</td>
 </tr>
 </table>
 
