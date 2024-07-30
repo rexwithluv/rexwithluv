@@ -59,16 +59,7 @@ README.md also available in [spanish](README-es.md)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 ## 📊 GitHub Stats
-<table>
-<tr>
-<td valign="top" width="100%">
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=rexwithluv&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rexwithluv&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
-</td>
-</tr>
-</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
