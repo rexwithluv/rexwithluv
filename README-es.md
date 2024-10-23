@@ -6,7 +6,7 @@ README.md también disponible en [inglés](README.md)
 
 ## ✨ Sobre mí
 - 🎓 Actualmente estoy estudiando un CS DAW. Anteriormente me gradué en CM SMR con excelencia académica.
-- 🌱 Estoy intentando aprender Tailwind CSS (y otras tecnologías relacionadas con el front).
+- 🌱 Intento aprender y enseñar a otros lo que sé.
 - 💼 Aunque no cuento con un gran repositorio de trabajos, ¡Estaré encantado de ayudar en cualquier proyecto!
 
 ## 🖥️ Tech Stack
@@ -21,6 +21,7 @@ README.md también disponible en [inglés](README.md)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </div>
 
 </td>
@@ -52,8 +53,7 @@ README.md también disponible en [inglés](README.md)
 </table>
 
 ## 📚 Aprendiendo...
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
@@ -61,5 +61,3 @@ README.md también disponible en [inglés](README.md)
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rexwithluv&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rexwithluv&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
