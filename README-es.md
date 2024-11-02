@@ -6,7 +6,7 @@
 
 ## ✨ Sobre mí
 
-- 🎓 Actualmente estoy estudiando un CS DAW. Anteriormente me gradué en CM SMR con excelencia académica.
+- 🎓 Actualmente estoy estudiando el CS de DAW. Anteriormente me gradué en el CM de SMR con excelencia académica.
 - 🌱 Intento aprender y enseñar a otros lo que sé.
 - 💼 Aunque no cuento con un gran repositorio de trabajos, ¡Estaré encantado de ayudar en cualquier proyecto!
 

@@ -6,7 +6,7 @@
 
 ## ✨ About me
 
-- 🎓 I'm currently studying a CS DAW Previously I graduated from CM SMR with academic excellence.
+- 🎓 I'm currently studying the VET Higher Level in Web Application Development. Previously, I graduated from the VET Medium Level in Microcomputer Systems and Networks with academic excellence.
 - 🌱 I try to learn and teach others what I know.
 - 💼 Although I don't have a large repository, I'll be happy to help on any project!
 
