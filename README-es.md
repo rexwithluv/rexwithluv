@@ -59,7 +59,7 @@
 
 ## 📚 Aprendiendo
 
-![SCSS](https://img.shields.io/badge/SCSS-%23CF649A.svg?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats
 
