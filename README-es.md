@@ -12,54 +12,30 @@
 
 ## 🖥️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### Lenguajes
 
-<div align="center">
+![HTML5](https://skills.syvixor.com/api/icons?i=html)
+![CSS3](https://skills.syvixor.com/api/icons?i=css)
+![Python](https://skills.syvixor.com/api/icons?i=python)
+![Java](https://skills.syvixor.com/api/icons?i=java)
+![JavaScript](https://skills.syvixor.com/api/icons?i=js)
+![TypeScript](https://skills.syvixor.com/api/icons?i=ts)
 
-### Front-end
+### Frameworks
 
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<div align="center">
-
-### Back-end
-
-![Java](https://img.shields.io/badge/java-%23F89917.svg?style=for-the-badge&logo=openjdk&logoColor=%23323330)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236CB33E.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<div align="center">
+![SpringBoot](https://skills.syvixor.com/api/icons?i=springboot)
+![Bootstrap](https://skills.syvixor.com/api/icons?i=bootstrap)
+![Vue.js](https://skills.syvixor.com/api/icons?i=vuejs)
+![React](https://skills.syvixor.com/api/icons?i=react)
 
 ### Herramientas
 
-![Linux](https://img.shields.io/badge/Linux-%230094FF.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%231D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</div>
-
-</td>
-</tr>
-</table>
-
-## 📚 Aprendiendo
-
-![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://skills.syvixor.com/api/icons?i=linux)
+![Docker](https://skills.syvixor.com/api/icons?i=docker)
+![MariaDB](https://skills.syvixor.com/api/icons?i=mariadb)
+![MongoDB](https://skills.syvixor.com/api/icons?i=mongodb)
+![Git](https://skills.syvixor.com/api/icons?i=git)
+![Node.js](https://skills.syvixor.com/api/icons?i=nodejs)
 
 ## 📊 GitHub Stats
 
