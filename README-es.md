@@ -1,5 +1,7 @@
 # Hey! ^^
 
+**¡Ahora tengo mi propio portfolio! -> [rexwithluv.dev](https://rexwithluv.dev)**
+
 > README.md también disponible en [inglés](README.md)
 
 ¡Bienvenida/o a mi perfil! Soy Aarón, un apasionado programador que intenta buscar y crear soluciones a problemas cotidianos usando diversas tecnologías y herramientas. Aunque Python es mi opción habitual, intento aprender nuevos lenguajes y herramientas constantemente para mantenerme actualizado.
